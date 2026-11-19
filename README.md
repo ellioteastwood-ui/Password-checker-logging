@@ -16,8 +16,8 @@ hashlib
 logging
 Installation
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/ellioteastwood-ui/Password-checker-logging.git
+cd Password-checker-logging
 python passchecker.py
 
 Skills Demonstrated
